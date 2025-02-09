@@ -1,4 +1,4 @@
-This website is used to showcase my experience, skills, and interests. The site is hosted in Azure using the Statice Web Apps services, and is still a work in progress at the moment.
+This website is used to showcase my experience, skills, and interests. The site is hosted in Azure using the Statice Web Apps services.
 
 Below is the tutorital used to get the website started, after it was up in Azure I added a domain of my choose and used a Bootstrap template for the design.
 
